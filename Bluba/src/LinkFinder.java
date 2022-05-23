@@ -9,6 +9,8 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.net.URL;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -40,22 +42,27 @@ public class LinkFinder implements Runnable {
             try {
                 Parser parser = new Parser(url);
                 NodeList nodeList = parser.extractAllNodesThatMatch(new NodeClassFilter(ImageTag.class));
-                NodeList tagList = parser.extractAllNodesThatMatch(new NodeClassFilter(LinkTag.class));
                 List<String> urls = new ArrayList<>();
                 BufferedImage bImage=null;
+                StringBuilder sb = new StringBuilder();
+                File outputfile;
                 for (int i = 0; i < nodeList.size(); i++) {
-                    ImageTag ltt = (ImageTag) nodeList.elementAt(i);
+                    ImageTag lt = (ImageTag) nodeList.elementAt(i);
 
-                    LinkTag lt = (LinkTag) tagList.elementAt(i);
+                    if (!lt.getImageURL().isEmpty() && !linkHandler.visited(lt.getImageURL())) {
+                        System.out.println("hallo");
+                        urls.add(lt.getImageURL());
+                        System.out.println(lt.getImageURL());
 
-                    if (!lt.getLink().isEmpty() && !linkHandler.visited(lt.getLink())) {
-                        urls.add(lt.getLink());
-                    }
+                        bImage= ImageIO.read(new URL(lt.getImageURL()));
 
-                    if (!ltt.getImageURL().isEmpty() && !linkHandler.visited(ltt.getImageURL())) {
-                        bImage= ImageIO.read(new URL(ltt.getImageURL()));
-                        ImageIO.write(bImage,"jpg", new File("C:\\Schule\\POS\\Welsch\\Besondere Bilder\\1.Klasse"));
+                        sb.append("C:\\Schule\\POS\\Welsch\\Besondere Bilder\\4.Klasse\\");
+                        sb.append("bild").append(count);
+                        sb.append(".jpg");
+                        outputfile= new File(sb.toString());
+                        ImageIO.write(bImage,"jpg",outputfile);
                         count++;
+                        sb= new StringBuilder();
                     }
                 }
                 linkHandler.addVisited(url);

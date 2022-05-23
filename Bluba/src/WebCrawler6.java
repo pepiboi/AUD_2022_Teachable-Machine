@@ -54,6 +54,6 @@ public class WebCrawler6 implements ILinkHandler {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws Exception {
-        new WebCrawler6("https://www.google.com/search?q=koifish&client=firefox-b-d&sxsrf=ALiCzsblO62SynSgyJjtlTXYa63JaHPivw:1652698541724&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjf4v_r7eP3AhWAS_EDHfX0C04Q_AUoAXoECAEQAw&biw=1920&bih=955&dpr=1", 64).startCrawling();
+        new WebCrawler6("https://www.google.com/search?q=thunfisch+fisch&tbm=isch&hl=de&chips=q:thunfisch+fisch,online_chips:tuna:xDkCJUwzpdI%3D&client=firefox-b-d&sa=X&ved=2ahUKEwjxo6jAt_X3AhUmgv0HHdZcDIoQ4lYoAHoECAEQHQ&biw=1903&bih=938", 64).startCrawling();
     }
 }
