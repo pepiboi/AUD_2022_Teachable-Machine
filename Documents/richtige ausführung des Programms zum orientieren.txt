@@ -1,0 +1,205 @@
+"C:\Program Files\Java\jdk-15.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\lib\idea_rt.jar=55144:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3\bin" -Dfile.encoding=UTF-8 -classpath D:\AUD\Übungen\AUD_2022_Teachable-Machine\GayLove\out\production\GayLove;D:\AUD\Übungen\AUD_2022_Teachable-Machine\GayLove\htmllexer.jar;D:\AUD\Übungen\AUD_2022_Teachable-Machine\GayLove\htmlparser.jar Main
+wo soll gespeichert? (Directory über den klassen insbesondere.)
+D:\\AUD\\Übungen\\AUD_2022_Teachable-Machine\\Besondere Bilder
+gib ein was du suchen
+koi
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIPJ3ERubBlUZEdu27p7hsMu50tDbkQkbBMgHRskLjnzlohWjaTmnl-LtRw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMuS_Yikiqhng4bZ2yTnsq-32LXg0HsndtUbXqvVgHp1eSTTkVR7qEJTwrQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0uwSxLWUYDHBE_jdCWaTlDWCEC3MGEwJNmaNDVwibk36Pq32EKUbO2ePTyQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6yhGypEIapGYlrvAaOU4R1QBurIy6R24W-d5yvYrYzaQlYIgp5C9ZyeWhgA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5_13rUo6gTYlnBYnFFEL1In_XAzAIWiy7aFs2WhPVUAaz0PWxKaEo2e2t-vI&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2pCTfoymGT6nTZbBd-rhSbn5G3DvxXS_0QVXnHMO_gs0EHXjiOjBn6GkmSM4&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeS4PRe4KZIvzmLHYIl5pT1iKnP47cBjo5UpQfoB7X8g8t7MnOuMenHyZEAA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0wkB_tUUu9DNu3Yow0sdyUea4JqMGqhWA0rVRCkxToMoa9JPuAhkqyPcr_1s&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrQNp05FR7UMmMxqryZ4hXvbVCUe1gkpPudiJcUk4Tx2a2_MNeK5hELHmHbQM&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZY4THHrexKSoL9x7LtJ_kX2TpExT7cdoiSyY2QHGLGqpTWjJGWUlkJJdh4w&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStLxyla51OHXpUaC8jUrH3MntgrZC7-g_Ibcqm5Pg9In7Wv0MeNS8hCwhCiw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM3XSH6on-4QEWdd1OTBsT74a0dqZj72-DXcS6xD5_6i8LTEdYh391-D19UQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUA-oqUaxJMet0OrPJchkyyxibE8mDgug2ZOe8Fkh8oJEHqlHH3HboBxrt5jA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWL8XdBt3nw6CJ6b9T3_OZqiv3aDeyKSeS7BGuQBIkcgSXEytNmN3sVrIkB50&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVL2tJFcY2u4esXeYS4P1392PT5QEjIkLFan4uEoEPX9ZQwnC-MjJabugqVs&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt9BmktEG7XR0qtqy0sL5XfScOgDXrJhp8UCdwerQfvTp-T6rzSHx0Pdb0Fw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-eZreDD-Id3ygZ3CrRg0Yx5844kutZMTMOVHL2tRKQuVXoKkOQNMaTSCRQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3F2PKDGelUi3KXouvBvwkp0j6t-SDXzmrvGevN5Zba1i1KNxTZoyV7c2Hjh0&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Qs8N-ThAXPvT5LSvgDIHeKXwoAuJ2zXUWyv2hYuMoNzXSqRABzqrN6ez-Q&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2hKwG-S_6H2oLNX5EgblpwQnxreVhrejlk7sSn2NNsp2UgdY-5nwpRo_rMg&amp;s
+gib ein was du suchen
+goldfisch
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT50uS6P6SUcaTAwGFa4Nnkck4F5qXJ9F8PKlvB3iQ-1U0e0CvkVMSDeMRHAg&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUquctKL0FdKBhTEq099ciVO-mLvHMaB-CtftZ44WVQWG1aAFBLTNvqvcooyE&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRvUAN679YrhPNvsi0VQ5kRHS8eY06wRHWxVU0COPvnXSEbvr22xktKmNMUw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfbXB53CXlwZUy2F64vF0B2svAsYKg4Zh7HPxIUE8t4NWXiIgYvDoKwP9biA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9f7TsaCjGz3xpcwnPmTqk5AeMJFoLB4MRfGR8r5Gqeu89xLg5nMTA4hNy14&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UKmk4YHQ85JAQBaQRzGLS_Z2ct5xDa8Y5mPC3WeRC87pDE1EQe5t4tCv5A&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrISnE6dOvBi5bdDtVzQRiihjQPkZmF9ztF2zNnangsYepTaGZC6wPLeCDqA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlPJKpJBeG9rKVvP289HgdXAM9VpKIPtchFCzi0c6hqe0QlvmXNa5EkCSxgw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1geoHUZD4ib3h4vBOyAyEdcN0Zzt__hin_2mYTLNclHHWPiaaBz6Hal6uInI&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4dcbpedvpGlmW85PP6DUb0tseXqEswfrkvPzNQoHXStBMOdD0H0EqIL18hQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLaPcTJkPVDFRjMUBvBI5_2qphOXux25TLq3ZhzuDkb-BowahL5XzqmDBNg&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqUoU8-cjwdtoIYh1og39MinFJLJ_LVQtJ7wVhtWeDoAc0mitpR5Z34u4kI6M&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm3cE3d9PkpH5pswRNXWPjfrMjx6JuWEgOLXQPKRRgPFBdmctwReEnbeuW1Ng&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6PxTr04c34rhZemay2WDbcjTjUBAWURGsfPQPFym4RENcPpaJx1YygsuNxpw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeu0FiNWXCyds10eTYbwc-2ZNIDHLW_D3vXCur89XWv0otGLetLGOdAX5c5g&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoSe_gP6_-eyw2XeV_EYIUz9JOB_tmd3o4fxfeNnwghp3eHYaHfq2-7I_l9M&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkjrdvbjAZyHHOcjcRgP09JZfBEWjQFkZQnPNcbFlKYRj9ikElIf1Wg_d0zg&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHCt83N6oQ9dH9Lo931LIJ99cCP8ph7WNYyKN5d7iKC4cEiy_-oqBLHHMlYU&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtL3qMD7LQ5Zvma-wuicmj06LjLSaazuLWVhxVU-OpuxtswAGot7CxsMiYLQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlda4PoaY_hxbuh_CGuSU3f_n_jgSYyFxrnRZl6RYrbfJSUdTiiC2-M4ZCbA&amp;s
+gib ein was du suchen
+lachs
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHTxh4nGZ0CVgo8wtfWaIzhIqfqFegC9aNQ0tl1-BRNvab_y0rrUr3szJ1Fsw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8RYaLifwu8mf9Cetpn5jX0mmCsM9kW-EtKxh7NuRJkaVtxCyG8tPEN0VabA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPa8Iy6qlcaY6jEsIfBJ5ysi3kExBMiHnpyVxs5S-5SUOe5_4uzbxeC6dudA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjfxDh67CRdj-Krgjw4fGE9vwDgGac5_02Ar80OLHGgHtXwsA9blVZj2tNVg&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2m0npaokYd5_QT7YIN-DbPSS2X-8qnvaZ1oWX7GhERwecFbW-nj9eLTSfog&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyH9p0WINVLmNDCD3jsc_WwnVUS-Pu24Gm5L-EzYa8QPEEBAoJvr03Am5ovw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVCRt6vP5l0fQTpt1Vb8uSIyCQ_S1Y0Ya2gNkhGzrJEmjFz4E88QVBlw6DoM&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnI7ENcyNvYoTJt4vBevbvhS9RKF7zEBjwe1kpCMHmtoNUdKF_cV7WlDnaaGE&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC2ki8ygruHKkZNEogxEXN18jOXb1EtoQlaQrUMoYC057dfPlH_wyd3IOmgO4&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKgiVwy5vSHxEXQNSiZyeKlKKzmxx2wTI7hpttU20E0B_U96Bl_TwfwxPtdI&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIhC-rtrVKWgH-seY4dn9iUZ2hgA3_i_Rh--DvM8rrnJNKkYqlQXTFo4A3OQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzkqzvxxHarb2wpZpiYnWPuj-M4by4IJ5x6MqM_t8vplh9RnnwnG10X5DPrkg&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejDWFMNhX2cr-AK6jNOIT8FTWGl94zVuvKFIQDlVGMoSlF7MY2ViZUYvyRw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6v7v97vXffbQa3OR4zBuuLi-DH-B6SiSShOWrMKK3D8pOPM5RQnS_BtWaMA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ_zqQvLLVaPGWru_8ydqMKlgXQxPW7Stx2Wsy9xvwgunW_2ES0_Fu1M9R3g0&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKdcm_IzP2joPNv3X0fUHOfjBiFJ0vPUMV2Yo2_j1yF7S8dPswdQeikTlHFw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROYudZ-5V9iq9zT0z93uRA8Eh8HfETODNLMaaQozTSSaoEWpkbiDZARi2Ckw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRak42zY8dTrRnd9348CcfyjJlfNiuJHi5IRjS0nT6CaaLmyPAtpQOdNxHl-g&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPhYNU7pqa3FA9L7E7_ty172HKYPO0TubHQ0pg87IYxAROO2qqSBKTnOxk08&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl0Jf9iS3oAIWfy9nx2NZMK0M3DecT6tnHlhuWIUZz_TrTSuCLlmwArTv68ZA&amp;s
+gib ein was du suchen
+karpfen
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ170hrcjAsYMwep0ZlBGnabV8NTgmiXnEBSfZ1VT8LD0r7JA6BSvMI0W_l-dc&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUDPmkxWuerNp0WMsukkFq8K8irzFDQluG7zY8YmsS3HqXI_o3bN71cncPw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF8JJeU91HE_U4IIwfuCtYX-H4C7hdiukv7amsI8gbo1Pp-NYDP3u-mpYXg&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3goUaOpk4Eg9izJEnFW-Pw0vfRWcrU0nlHbPEGZSPleJ6QtOC9iaqiVGALOU&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUuXS2qJOULsbo5MBKJP0RC6sStQ8ok3FQM_FFkitibr25Mver1G6EY64Vw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwLQf3XobahpH_t7laKKKi0iFBCjF5eQnbcc2_jlpPmOZGlQLWcgtxtD-0gY&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_XGBS4oF8lsdmUGudZ08L8WGtzZu_tX_n3geJ50zh6TY4CsCo86OB_bWBhU&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScL3HjFpzO6FZLNvjug6HxO-Haxl910OrfFn4L79ZeLZR7de0XUkOW1XLovw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_JZDCErWJqrgPmcBhQjrLZTVwyHWEwJYzIr5RNBYUDJoU-8KfU9vRGCCIls&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZGk5uDMyKHPEsvwCraqwZoy8hbF5aPchcP524okkd1xGbgApvFF6bv1wlMA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4A3E0-ahqDYpQutyUaokW28kCtDJaEednS2PDLNt1hQqmruD2Nq11Zey_Ug&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7zlK1m-PiPDEoiR5jra8mX3waFtyO4kI48w-G8x4uRqAsd1ANXVJM-kP5gQ&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-VvTGrxozNzkg9rMMjPnQr4K0eA90KybI1DmxltJPIfTaOW_1zoNRB2TYzA&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BQqtYxajDck90mboUUVybZjXBIZcvbf9SHSpoFwuFXeNZVmOqpxE_7WmDFw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVMo4yzgg29l7AzV6a4Bcdy7LGTIrca7cisCiADjMmTZYbdHd-D8eao6K8_w&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB0yU0csGwwjeZzBTvRf7vonsODtgdMUs8nUaYI2qGcoegPJkuvGInCG_Ucis&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCSZFc1XEq6F9vHJo5q3Ms4bZseu4AfXsklkO7NKMZvOoNgjcfArNcIUyzWw&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnDC13R_LDws4vq8V0C7eUbMUuZk-0NiJ1Vj1pKjEu_NBakEu2Tgpxtf5NEDU&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYnvVgoP82YValLLgpGjJCY7rh1f6xnD6yro1ZAR6B3Lr8fLiyepEp4sHe5Q&amp;s
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPLhEaJmbXFL7RSC6CCxuGUgDF2IbsCpMm5Hr-W2lliX4jl41-tj9J9aCZA&amp;s
+Images must be named the same basename and numbered after it beginning with one increasing by one continually to the last number
+How many images you want to resize?
+20
+Paste path of saved images (z.B. C\teachableMachine\klasse1)(Klasse insbesondere angeben bitte)
+D:\\AUD\\Übungen\\AUD_2022_Teachable-Machine\\Besondere Bilder\\Klasse1
+Paste name of images. Ohne nummer
+bild
+image bild0 resized successfully
+image bild1 resized successfully
+image bild2 resized successfully
+image bild3 resized successfully
+image bild4 resized successfully
+image bild5 resized successfully
+image bild6 resized successfully
+image bild7 resized successfully
+image bild8 resized successfully
+image bild9 resized successfully
+image bild10 resized successfully
+image bild11 resized successfully
+image bild12 resized successfully
+image bild13 resized successfully
+image bild14 resized successfully
+image bild15 resized successfully
+image bild16 resized successfully
+image bild17 resized successfully
+image bild18 resized successfully
+image bild19 resized successfully
+Resizing finished
+Images must be named the same basename and numbered after it beginning with one increasing by one continually to the last number
+How many images you want to resize?
+20
+Paste path of saved images (z.B. C\teachableMachine\klasse1)(Klasse insbesondere angeben bitte)
+D:\\AUD\\Übungen\\AUD_2022_Teachable-Machine\\Besondere Bilder\\Klasse2
+Paste name of images. Ohne nummer
+bild
+image bild0 resized successfully
+image bild1 resized successfully
+image bild2 resized successfully
+image bild3 resized successfully
+image bild4 resized successfully
+image bild5 resized successfully
+image bild6 resized successfully
+image bild7 resized successfully
+image bild8 resized successfully
+image bild9 resized successfully
+image bild10 resized successfully
+image bild11 resized successfully
+image bild12 resized successfully
+image bild13 resized successfully
+image bild14 resized successfully
+image bild15 resized successfully
+image bild16 resized successfully
+image bild17 resized successfully
+image bild18 resized successfully
+image bild19 resized successfully
+Resizing finished
+Images must be named the same basename and numbered after it beginning with one increasing by one continually to the last number
+How many images you want to resize?
+20
+Paste path of saved images (z.B. C\teachableMachine\klasse1)(Klasse insbesondere angeben bitte)
+D:\\AUD\\Übungen\\AUD_2022_Teachable-Machine\\Besondere Bilder\\Klasse3
+Paste name of images. Ohne nummer
+bild
+image bild0 resized successfully
+image bild1 resized successfully
+image bild2 resized successfully
+image bild3 resized successfully
+image bild4 resized successfully
+image bild5 resized successfully
+image bild6 resized successfully
+image bild7 resized successfully
+image bild8 resized successfully
+image bild9 resized successfully
+image bild10 resized successfully
+image bild11 resized successfully
+image bild12 resized successfully
+image bild13 resized successfully
+image bild14 resized successfully
+image bild15 resized successfully
+image bild16 resized successfully
+image bild17 resized successfully
+image bild18 resized successfully
+image bild19 resized successfully
+Resizing finished
+Images must be named the same basename and numbered after it beginning with one increasing by one continually to the last number
+How many images you want to resize?
+20
+Paste path of saved images (z.B. C\teachableMachine\klasse1)(Klasse insbesondere angeben bitte)
+D:\\AUD\\Übungen\\AUD_2022_Teachable-Machine\\Besondere Bilder\\Klasse4
+Paste name of images. Ohne nummer
+bild
+image bild0 resized successfully
+image bild1 resized successfully
+image bild2 resized successfully
+image bild3 resized successfully
+image bild4 resized successfully
+image bild5 resized successfully
+image bild6 resized successfully
+image bild7 resized successfully
+image bild8 resized successfully
+image bild9 resized successfully
+image bild10 resized successfully
+image bild11 resized successfully
+image bild12 resized successfully
+image bild13 resized successfully
+image bild14 resized successfully
+image bild15 resized successfully
+image bild16 resized successfully
+image bild17 resized successfully
+image bild18 resized successfully
+image bild19 resized successfully
+Resizing finished
+
+Process finished with exit code 0
