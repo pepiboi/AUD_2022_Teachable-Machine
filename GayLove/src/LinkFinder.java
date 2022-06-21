@@ -5,6 +5,7 @@ import org.htmlparser.tags.ImageTag;
 import org.htmlparser.util.NodeList;
 
 import javax.imageio.ImageIO;
+import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.net.URL;
@@ -14,14 +15,13 @@ import java.util.List;
 public class LinkFinder {
     private static String url= "https://www.google.com/search?q=koi&tbm=isch";
     private static int count = 0;
-    private final List<String> urlsP = new ArrayList<>();
     private static String lastSearchItem = "koi";
     private static String path;
 
     public void run(String searchItem, String klasse){
         url = url.replace(lastSearchItem, searchItem);
         lastSearchItem = searchItem;
-        getSimpleLinks(url, klasse);
+      getSimpleLinks(url, klasse);
     }
 
     //Methode 2
@@ -79,40 +79,50 @@ public class LinkFinder {
     */
 
     public void setPath(String path){
-        this.path = path;
+        LinkFinder.path = path;
     }
 
     //Methode 1
     private static void getSimpleLinks(String url,String klasse) {
-
         try {
             Parser parser = new Parser(url);
             NodeList nodeList = parser.extractAllNodesThatMatch(new NodeClassFilter(ImageTag.class));
             BufferedImage bImage = null;
             StringBuilder sb = new StringBuilder();
             File outputfile;
-            for (int i = 0; i < nodeList.size(); i++) {
-                if (i != 0) {
+            File temp;
+
+            for (int i = 1; i < nodeList.size(); i++) {
                     ImageTag lt = (ImageTag) nodeList.elementAt(i);
                     if (!lt.getImageURL().isEmpty() && count < 251) {
                         System.out.println(lt.getImageURL());
 
                         bImage = ImageIO.read(new URL(lt.getImageURL()));
                         sb.append( path + "\\"  + klasse + "\\");
+
+                        temp = new File(sb.toString());
+                        temp.mkdir();
+
                         sb.append("bild").append(count);
                         sb.append(".jpg");
 
                         outputfile = new File(sb.toString());
-                        ImageIO.write(bImage, "jpg", outputfile);
+                        ImageIO.write(resizeImage(bImage), "jpg", outputfile);
                         count++;
                         sb = new StringBuilder();
                     }
-                }
+                count=0;
             }
-            count = 0;
-
         } catch (Exception e) {
             e.printStackTrace();
         }
+    }
+
+    public static BufferedImage resizeImage(BufferedImage originalImage) {
+        BufferedImage resizedImage = new BufferedImage(500, 500, BufferedImage.TYPE_INT_RGB);
+        Graphics2D graphics2D = resizedImage.createGraphics();
+        graphics2D.drawImage(originalImage, 0, 0, 500, 500, null);
+        graphics2D.dispose();
+        return resizedImage;
     }
 }

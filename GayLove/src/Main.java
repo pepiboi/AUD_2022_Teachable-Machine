@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Main {
     static Scanner s;
     static LinkFinder link = new LinkFinder();
-    static Resizer resizer = new Resizer();
 
     public static void main(String[] args){
         s = new Scanner(System.in);
@@ -15,9 +14,5 @@ public class Main {
             System.out.println("gib ein was du suchen");
             link.run(s.nextLine(), "Klasse" + (i+1));
         }
-        for (int i = 0; i < 4; i++) {
-            resizer.resizeImages();
-        }
-
     }
 }
